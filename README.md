@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  - Chinese / 22 y.o.
  - Amateur Tipster
 
-## 🌱 Programming Languages
+## 🌱 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YueHua46&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Get in Touch
