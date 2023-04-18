@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YueHua46&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YueHua46&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YueHua46&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## 🌱 Top Languages
 
 
 ### Hi there 👋 I'm shengxi2000
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shengxi2000&hide_border=true&title_color=000&layout=compact"> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YueHua46&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
  - Chinese / 22 y.o.
  - Amateur Tipster
