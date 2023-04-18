@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## 📫 Get in Touch
 
-[![Telegram](https://img.shields.io/badge/shengxi2000-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)]() &nbsp; &nbsp; &nbsp; [![QQ](https://img.shields.io/badge/2766274062-4ab7f5?style=flat-square&logo=tencentqq)](http://wpa.qq.com/msgrd?v=3&uin=2962952929&site=qq&menu=yes) &nbsp; &nbsp; &nbsp; [![E-Mail](https://img.shields.io/badge/-2766274062@qq.com-168de2?style=flat-square&logo=gmail&logoColor=white&labelColor=168de2)](mailto:2766274062@qq.com)
+[![Telegram](https://img.shields.io/badge/shengxi2000-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)]() &nbsp; [![QQ](https://img.shields.io/badge/2766274062-4ab7f5?style=flat-square&logo=tencentqq)](http://wpa.qq.com/msgrd?v=3&uin=2962952929&site=qq&menu=yes) &nbsp; [![E-Mail](https://img.shields.io/badge/-2766274062@qq.com-168de2?style=flat-square&logo=gmail&logoColor=white&labelColor=168de2)](mailto:2766274062@qq.com)
 
 ## 💻 Working Environment
 
