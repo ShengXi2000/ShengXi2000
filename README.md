@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YueHua46&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YueHua46&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YueHua46&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌱 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YueHua46&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Hi there 👋 I'm shengxi2000
 
