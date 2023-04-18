@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 🌱 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YueHua46&layout=compact&theme=synthwave&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YueHua46&layout=compact&theme=synthwave&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Get in Touch
 
