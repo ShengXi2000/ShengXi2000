@@ -23,8 +23,7 @@ Here are some ideas to get you started:
  - Amateur Tipster
 
 ## 🌱 Programming Languages
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)](https://nodejs.org/)
-[![vue](https://img.shields.io/badge/-vue-00ADD8?style=flat-square&logo=VUE&logoColor=#3FB27F)](https://go.dev/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YueHua46)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Get in Touch
 
