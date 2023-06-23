@@ -25,8 +25,11 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm YueHua46
  - Chinese / 22 y.o.
- - Amateur Tipster
 
+  <div align="center">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+  </div>
+  
 ## 🌱 Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YueHua46&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
