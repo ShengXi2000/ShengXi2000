@@ -1,43 +1,52 @@
-<!--
-**shengxi2000/shengxi2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🏅 My Information</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YueHua46&show_icons=true" alt="Anurag's GitHub stats">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+<h2>Codeing Time</h2>
 
-## 🏅 My Information
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sears&layout=compact" alt="Harlok's wakatime stats">
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YueHua46&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<h2>🧑‍💻 About Me</h2>
 
-## Codeing Time
+<h3>Hi there 👋 I'm YueHua46</h3>
+<ul>
+  <li>Chinese / 22 y.o.</li>
+</ul>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sears&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+</div>
 
-## 🧑‍💻 About Me
+<h2>🌱 Top Languages</h2>
 
-### Hi there 👋 I'm YueHua46
- - Chinese / 22 y.o.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YueHua46&layout=compact&hide=html" alt="Top Langs">
+</p>
 
-  <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
-  </div>
-  
-## 🌱 Top Languages
+<h2>📫 Get in Touch</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YueHua46&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/YueHua46-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0" alt="Telegram">
+  </a>
+   
+  <a href="http://wpa.qq.com/msgrd?v=3&uin=2962952929&site=qq&menu=yes">
+    <img src="https://img.shields.io/badge/2766274062-4ab7f5?style=flat-square&logo=tencentqq" alt="QQ">
+  </a>
+   
+  <a href="mailto:2766274062@qq.com">
+    <img src="https://img.shields.io/badge/-2766274062@qq.com-168de2?style=flat-square&logo=gmail&logoColor=white&labelColor=168de2" alt="E-Mail">
+  </a>
+</p>
 
-## 📫 Get in Touch
+<h2>💻 Working Environment</h2>
 
-[![Telegram](https://img.shields.io/badge/YueHua46-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)]() &nbsp; [![QQ](https://img.shields.io/badge/2766274062-4ab7f5?style=flat-square&logo=tencentqq)](http://wpa.qq.com/msgrd?v=3&uin=2962952929&site=qq&menu=yes) &nbsp; [![E-Mail](https://img.shields.io/badge/-2766274062@qq.com-168de2?style=flat-square&logo=gmail&logoColor=white&labelColor=168de2)](mailto:2766274062@qq.com)
-
-## 💻 Working Environment
-
-[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://learn.microsoft.com/en-us/windows/whats-new/windows-11-overview)
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/windows/whats-new/windows-11-overview">
+    <img src="https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff" alt="Windows 11">
+  </a>
+</p>
