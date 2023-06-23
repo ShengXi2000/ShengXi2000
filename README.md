@@ -1,8 +1,7 @@
 <div>
   <h2>🏅 My Information</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=YueHua46&show_icons=true" alt="Anurag's GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sears&layout=compact" alt="Harlok's wakatime stats">
-
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sears" alt="Harlok's wakatime stats">
 </div>
 
 <div>
