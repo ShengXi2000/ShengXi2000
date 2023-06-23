@@ -1,34 +1,39 @@
-<h2>🏅 My Information</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YueHua46&show_icons=true" alt="Anurag's GitHub stats">
-</p>
-
-<h2>Codeing Time</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sears&layout=compact" alt="Harlok's wakatime stats">
-</p>
-
-<h2>🧑‍💻 About Me</h2>
+<div>
+  <h2>🏅 My Information</h2>
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=YueHua46&show_icons=true" alt="Anurag's GitHub stats">
+  </p>
+</div>
 
 <div>
+  <h2>Codeing Time</h2>
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sears&layout=compact" alt="Harlok's wakatime stats">
+
+  </p>
+</div>
+
+<div>
+  <h2>🧑‍💻 About Me</h2>
   <div align="left">
-    <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
     <h3>Hi there 👋 I'm YueHua46</h3>
     <ul>
       <li>Chinese / 22 y.o.</li>
     </ul>
   </div>
-  
+  <div align="right">
+    <img src="https://i.imgur.com/KXx0cCx.gif" width="373.5px" height="208.5px">
+  </div>
 </div>
 
-<h2>🌱 Top Languages</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YueHua46&layout=compact&hide=html" alt="Top Langs">
+<div>
+  <h2>🌱 Top Languages</h2>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YueHua46&layout=compact&hide=html" alt="Top Langs">
+  </p>
+</div>
 
-</p>
 
 
 
