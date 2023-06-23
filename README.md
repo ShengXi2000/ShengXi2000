@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Codeing Time
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sears)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sears&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧑‍💻 About Me
 
