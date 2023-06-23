@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YueHua46&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## Codeing Time
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sears)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🧑‍💻 About Me
 
 ### Hi there 👋 I'm YueHua46
