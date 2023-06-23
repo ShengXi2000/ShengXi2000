@@ -18,12 +18,12 @@
   <div align="left">
     <h3>Hi there 👋 I'm YueHua46</h3>
     <ul>
-      <li>Chinese / 22 y.o.</li>
+      <li>Chinese / 23 y.o.</li>
+      <li>a junior student in college</li>
     </ul>
-  </div>
-  <div align="right">
     <img src="https://i.imgur.com/KXx0cCx.gif" width="373.5px" height="208.5px">
   </div>
+
 </div>
 
 
