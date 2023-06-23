@@ -15,7 +15,6 @@
 <div>
   <div align="left">
     <h3>Hi there 👋 I'm YueHua46</h3>
-
     <ul>
       <li>Chinese / 22 y.o.</li>
     </ul>
