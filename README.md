@@ -12,12 +12,13 @@
 
 <h2>🧑‍💻 About Me</h2>
 
-<div align="left">
-  <h3>Hi there 👋 I'm YueHua46</h3>
-
-  <ul>
-    <li>Chinese / 22 y.o.</li>
-  </ul>
+<div>
+  <div>
+    <h3>Hi there 👋 I'm YueHua46</h3>
+    <ul>
+      <li>Chinese / 22 y.o.</li>
+    </ul>
+  </div>
   <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 </div>
 
