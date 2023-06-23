@@ -1,7 +1,16 @@
 <div>
   <h2>🏅 My Information</h2>
+  <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=YueHua46&show_icons=true" alt="Anurag's GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sears" alt="Harlok's wakatime stats">
+  </p>
+</div>
+
+<div>
+  <h2>Codeing Time</h2>
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sears&layout=compact" alt="Harlok's wakatime stats">
+
+  </p>
 </div>
 
 <div>
@@ -17,16 +26,12 @@
 
 </div>
 
-
 <div>
   <h2>🌱 Top Languages</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YueHua46&layout=compact&hide=html" alt="Top Langs">
   </p>
 </div>
-
-
-
 
 <div>
   <h2>📫 Get in Touch</h2>
@@ -52,4 +57,3 @@
   </a>
 </p>
 </div>
-
