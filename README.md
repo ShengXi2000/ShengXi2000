@@ -14,12 +14,13 @@
 
 <div>
   <div align="left">
+    <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
     <h3>Hi there 👋 I'm YueHua46</h3>
     <ul>
       <li>Chinese / 22 y.o.</li>
     </ul>
   </div>
-  <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+  
 </div>
 
 <h2>🌱 Top Languages</h2>
