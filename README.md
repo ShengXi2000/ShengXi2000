@@ -13,8 +13,9 @@
 <h2>🧑‍💻 About Me</h2>
 
 <div>
-  <div>
+  <div align="left">
     <h3>Hi there 👋 I'm YueHua46</h3>
+
     <ul>
       <li>Chinese / 22 y.o.</li>
     </ul>
@@ -31,7 +32,7 @@
 
 <h2>📫 Get in Touch</h2>
 
-<p align="center">
+<p>
   <a href="#">
     <img src="https://img.shields.io/badge/YueHua46-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0" alt="Telegram">
   </a>
