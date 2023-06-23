@@ -30,9 +30,10 @@
 
 </p>
 
-<h2>📫 Get in Touch</h2>
 
-<p>
+
+<div>
+  <h2>📫 Get in Touch</h2>
   <a href="#">
     <img src="https://img.shields.io/badge/YueHua46-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0" alt="Telegram">
   </a>
@@ -44,12 +45,12 @@
   <a href="mailto:2766274062@qq.com">
     <img src="https://img.shields.io/badge/-2766274062@qq.com-168de2?style=flat-square&logo=gmail&logoColor=white&labelColor=168de2" alt="E-Mail">
   </a>
-</p>
+</div>
 
 
 <div>
   <h2>💻 Working Environment</h2>
-  <p align="center">
+  <p>
   <a href="https://learn.microsoft.com/en-us/windows/whats-new/windows-11-overview">
     <img src="https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff" alt="Windows 11">
   </a>
