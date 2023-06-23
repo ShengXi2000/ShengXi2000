@@ -1,12 +1,8 @@
 <div>
   <h2>🏅 My Information</h2>
-  <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=YueHua46&show_icons=true" alt="Anurag's GitHub stats">
-  </p>
-  <p align="right">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sears&layout=compact" alt="Harlok's wakatime stats">
 
-  </p>
 </div>
 
 <div>
