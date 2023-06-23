@@ -3,11 +3,7 @@
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=YueHua46&show_icons=true" alt="Anurag's GitHub stats">
   </p>
-</div>
-
-<div>
-  <h2>Codeing Time</h2>
-  <p align="left">
+  <p align="right">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sears&layout=compact" alt="Harlok's wakatime stats">
 
   </p>
