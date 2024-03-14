@@ -1,4 +1,8 @@
 <div>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Angry%20Face.png" alt="Angry Face" width="25" height="25" />
+</div>
+
+<div>
   <h2>🏅 My Information</h2>
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=YueHua46&show_icons=true" alt="Anurag's GitHub stats">
