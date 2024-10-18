@@ -1,14 +1,3 @@
-<div style="display:flex;gap:10px">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Angry%20Face.png" alt="Angry Face" width="100" height="100" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Savoring%20Food.png" alt="Face Savoring Food" width="100" height="100" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Blowing%20a%20Kiss.png" alt="Face Blowing a Kiss" width="100" height="100" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Tongue.png" alt="Face with Tongue" width="100" height="100" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Tears%20of%20Joy.png" alt="Face with Tears of Joy" width="100" height="100" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" alt="Grinning Face with Sweat" width="100" height="100" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="100" height="100" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="100" height="100" />
-</div>
-
 <div>
   <h2>🏅 My Information</h2>
   <p align="left">
@@ -27,9 +16,9 @@
 <div>
   <h2>🧑‍💻 About Me</h2>
   <div align="left">
-    <h3>Hi there 👋 I'm YueHua46</h3>
+    <h3>Hi there 👋 I'm Sears</h3>
     <ul>
-      <li>Chinese / 23 y.o.</li>
+      <li>/ 23 y.o.</li>
       <li>a junior student in college</li>
     </ul>
     <img src="https://i.imgur.com/KXx0cCx.gif" width="373.5px" height="208.5px">
