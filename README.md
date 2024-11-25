@@ -18,7 +18,7 @@
   <div align="left">
     <h3>Hi there 👋 I'm Sears</h3>
     <ul>
-      <li>/ 23 y.o.</li>
+      <li>/ 24 y.o.</li>
       <li>a junior student in college</li>
     </ul>
     <img src="https://i.imgur.com/KXx0cCx.gif" width="373.5px" height="208.5px">
@@ -54,6 +54,9 @@
   <p>
   <a href="https://learn.microsoft.com/en-us/windows/whats-new/windows-11-overview">
     <img src="https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff" alt="Windows 11">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Macos%2011-00adef?style=flat-square&logo=macos&logoColor=ffffff" alt="Macos">
   </a>
 </p>
 </div>
