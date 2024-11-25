@@ -55,8 +55,5 @@
   <a href="https://learn.microsoft.com/en-us/windows/whats-new/windows-11-overview">
     <img src="https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff" alt="Windows 11">
   </a>
-  <a>
-    <img src="https://img.shields.io/badge/Macos%2011-00adef?style=flat-square&logo=macos&logoColor=ffffff" alt="Macos">
-  </a>
 </p>
 </div>
